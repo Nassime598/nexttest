@@ -1,0 +1,5 @@
+2023/09/07-01:29:55.249 df8 Recovering log #28
+2023/09/07-01:29:55.249 df8 Level-0 table #31: started
+2023/09/07-01:29:55.251 df8 Level-0 table #31: 222 bytes OK
+2023/09/07-01:29:55.257 df8 Delete type=0 #28
+2023/09/07-01:29:55.257 df8 Delete type=3 #26
